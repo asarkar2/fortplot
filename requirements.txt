@@ -1,0 +1,21 @@
+# Required softwares:
+
+1. Fortran (Fortran 90 preferably)
+1. Gnuplot
+1. GCC 
+
+# On windows:
+## GCC + Gfortran (MSYS2) version
+Download Strawberry perl from http://strawberryperl.com/ and install in the
+folder C:\Strawberry (Strawberry perl includes a MINGW-W64 version of gcc, 
+gfortran)
+or
+mingw64 from
+http://mingw-w64.org/doku.php/download/mingw-builds
+
+## Gnuplot
+Download from http://www.gnuplot.info/download.html
+https://sourceforge.net/projects/gnuplot/files/gnuplot/5.2.6/
+and install in the standard folder. Add the path of the bin folder to the 
+environment variable. (See https://docs.alfresco.com/4.2/tasks/fot-addpath.html)
+
